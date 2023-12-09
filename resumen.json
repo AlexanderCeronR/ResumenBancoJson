@@ -1,0 +1,15 @@
+{
+    "banco": "Banco de la Republica",
+    "sucursal": "Medellín",
+    "titular": "David Alexander Cerón Restrepo",
+    "nro_cuenta": "2332215223",
+    "saldo": [{
+        "moneda": "USD",
+        "monto": "500"
+    }, {
+        "moneda": "COP",
+        "monto": "2.000.000"
+    }],
+    "cbu": "53131321515132",
+    "abierto": "03/08/2018"
+}
